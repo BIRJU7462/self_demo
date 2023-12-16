@@ -1,5 +1,5 @@
 # self_demo
 This is my Git Repository.
 <br>
-Name - Birju Bharti
+Name - Birju Bharti(developer)
 
